@@ -1,6 +1,6 @@
 def oxford_comma(array)
   # if array[-2]
   #   name = ar
- array[-1] = "# and {array[-1}"
+ array[-1] = "and #{array[-1}"
  array.join(", ")
 end
